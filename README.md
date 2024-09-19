@@ -10,7 +10,7 @@ This project is a simple data visualization tool written in C++. It reads financ
 
 ## Instructions
 - Clone the repository:
-  `git clone https://github.com/andrewanil/DataVizApp`
+  `git clone https://github.com/aanilgeo/DataVizApp`
 - Compile the program:
   `g++ main.cpp -o DataVizApp`
 - Run the program:
